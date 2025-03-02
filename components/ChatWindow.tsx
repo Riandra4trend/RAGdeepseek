@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from 'react';
 import ChatInput from './ChatInput';
 import ChatMessage from './ChatMessage';
